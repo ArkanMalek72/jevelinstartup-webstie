@@ -223,4 +223,16 @@ footer{
     display: flex;
    
 }
-.third{display: inline;}
+.first img{
+display: inline;
+}
+.second img{
+ display: inline;
+}
+.third img{
+ display: inline;
+}
+.fourth img{
+display: inline;
+}
+
