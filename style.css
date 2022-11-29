@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.icon img {
+    width: 20px;
+    height: 20px; 
+}
+.collapse navbar-collapse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navbar-brand{
+    font-weight: 500;
+}
+.navbar-nav{
+   
+}
+span{
+    font-weight: 100;
+}
+.first-container-fluid{
+    background-color: #ececec;
+    height: 100vh;
+    width: 99%;
+    background-image: url(images/first-background.jpg);
+}
+.text-container-fluid{
+   position: relative;
+   top: 30%;
+   left: 10px;
+}
+.btn btn-info{
+    border-radius: 30px;
+}
+.dot{
+   border-radius: 30px;
+}
+.second-container-fluid{
+    position: relative;
+    top: 70px;
+    left: 15%;
+    width: 300px;
+    display: inline-block;
+    flex-direction: column;
+    height: 100px;
+}
+.Carousel-container-fluid{
+    position: relative;
+    left: 200%;
+    bottom: 383%;
+}
+.sidebar-container-fluid{
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+    width: 40px;
+    height: 40%;
+    position: absolute;
+    right: 2%;
+    justify-content: center;
+    align-items: center;
+}
+.sidebar-container-fluid img{
+    width: 30px;
+    height: 30px;
+}
+.third-container-fluid{
+    height: 600px;
+    text-align: center;
+    color: white;
+    background-image: url(images/second-background.jpg);
+   
+}
+.box-container-fluid{
+     margin-top: 70px;
+     display: flex;
+     padding: 20px;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+}
+.box-container-fluid img{
+    width: 50px;
+    height: 50px;
+}
+.box-btn{
+    color: white;
+    background: none;
+    border-radius: 20px;
+    width: 25%;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+}
+.box-btn:hover{
+    background-color:black ;
+}
+.fourth-container-fluid{
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.text-center{
+   margin-top: 100px;
+}
+.col1{
+    border-right: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+}
+.col2{
+    border-bottom: 1px solid #ececec;
+}
+.col3{
+   
+    border-right: 1px solid #ececec;
+}
+.fifth-container-fluid{
+    background-color: #ececec;
+    height: 246px;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card{
+    display: inline;
+    margin-left: 75px;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+.six-container-fluid{
+    background-image: url(images/tablet-img.png);
+    width: 880px;
+    margin-top: 10%;
+    height: 1000px;
+    display: block;
+}
+.accordion{
+    top: 25%;
+    width: 500px;
+    position: relative;
+    left: 100%;
+}
+.seven-container-fluid{
+    background-image: url(images/email-background.png);
+    /* background-color: #ececec; */
+}
+.input-field{
+    border-radius: 20px;
+    width: 35%;
+    height: 50px;
+    text-align: center;
+}
+.input-field2{
+    margin-top: 25px;
+    border-radius: 20px;
+    width: 35%;
+    height: 50px;
+    text-align: center;
+}
+.textarea{
+    margin-top: 40px;
+    text-align: center;
+    width: 70%;
+    border-radius: 20px;
+    height: 200px;
+}
+.buton1{
+    margin-top: 35px;
+    border-radius: 20px;
+    width: 70%;
+    height: 50px;
+    background-color: #00E7FF;
+}
+.buton1:hover{
+    background: none;
+}
+.eight-container-fluid{
+    background-image: url(images/keyboard2.jpg);
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eight-container-fluid img{
+    border: 2px solid black;
+    width: 200px;
+    padding: 20px;
+    height: 200px;
+}
+footer{
+    color: white;
+    background-color: #2C3333;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.first_fotter{
+    padding: 50px;
+    width: 300px;
+}
+.second_fotter{
+    padding: 50px;
+}
+.third_fotter{
+    padding: 50px;
+}
+.fotter_first_icon img{
+    width: 20px;
+    height: 20px;
+}
+.second_fotter img{
+    width: 50px;
+    border-radius: 50px;
+}
+.third_fotter img{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    display: flex;
+   
+}
+.third{display: inline;}
